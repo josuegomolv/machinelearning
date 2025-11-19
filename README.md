@@ -49,6 +49,7 @@ Paso 6. Ejecución de pruebas
                        |                |                   |
                        -------------------------------------
   el despliegue de las ventanas y la impresión en consola indican que la salida fue correcta, pero favor de revisar que no se haya impreso algun error en consola, estas son las lineas de comando para ejecutar cada test:
+  
     python .\KMeans.py
 
     python .\lineal-regression2.py
